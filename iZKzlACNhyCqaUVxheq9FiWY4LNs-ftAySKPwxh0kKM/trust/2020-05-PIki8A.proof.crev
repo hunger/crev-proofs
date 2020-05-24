@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-24T10:41:53.398348325+02:00"
+from:
+  id-type: crev
+  id: iZKzlACNhyCqaUVxheq9FiWY4LNs-ftAySKPwxh0kKM
+  url: "https://github.com/hunger/crev-proofs.git"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: medium
+comment: |-
+  Author of cargo-crev
+----- SIGN CREV PROOF -----
+dHRLzGhElP2Kl6JPeouNbfm-GbOZ7j9MWrYXFLEgAyTVrM7D903OPeFVD1VN6w5JxbkHUKVGgJlANThoz32zAw
+----- END CREV PROOF -----
+
