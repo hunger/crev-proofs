@@ -16,3 +16,22 @@ comment: |-
 dHRLzGhElP2Kl6JPeouNbfm-GbOZ7j9MWrYXFLEgAyTVrM7D903OPeFVD1VN6w5JxbkHUKVGgJlANThoz32zAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-24T10:51:05.332159952+02:00"
+from:
+  id-type: crev
+  id: iZKzlACNhyCqaUVxheq9FiWY4LNs-ftAySKPwxh0kKM
+  url: "https://github.com/hunger/crev-proofs.git"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: |-
+  BurnedSushi
+----- SIGN CREV PROOF -----
+tsNwUOWV8JZhwf2mZ2GGiXtZG1DRYzg5GXI2kfpY-4rGhhNCeQ78ZOHY0F0WwFqvVLUSPBJpSqXDKaeNRY3rDg
+----- END CREV PROOF -----
+
